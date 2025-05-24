@@ -14,5 +14,4 @@ pip install -r requirements.txt
 -
 
 
-(Sample code for MLH form submission)
 
